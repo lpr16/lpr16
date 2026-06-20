@@ -2,7 +2,7 @@
 
 Business Analyst in finance with a strong mathematical background and teaching experience.
 
-I work with **Java** and **Angular** professionally, and use **.NET** for personal projects. My background as a mathematician and teacher informs how I approach problems—breaking down complexity, communicating solutions clearly, and finding elegant approaches to real-world challenges.
+I work with **Java** and **Angular** professionally, and use **.NET** for personal projects. My background as a mathematician and teacher informs how I approach problems—breaking down complexity, finding clear solutions, and explaining them well.
 
 ## About me
 
@@ -27,6 +27,10 @@ I work with **Java** and **Angular** professionally, and use **.NET** for person
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Featured Project
+
+- [science-webapp](https://github.com/lpr16/science-webapp) — An interactive science web app built with TypeScript, CSS, Python, HTML, and JavaScript.
 
 ## GitHub stats
 
