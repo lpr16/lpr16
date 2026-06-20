@@ -30,7 +30,7 @@ I work with **Java** and **Angular** professionally, and use **.NET** for person
 
 ## Featured Project
 
-- [science-webapp](https://github.com/lpr16/science-webapp) — An interactive science web app built with TypeScript, CSS, Python, HTML, and JavaScript.
+- [science-webapp](https://github.com/lpr16/science-webapp) — An interactive science web app built with TypeScript and Python.
 
 ## GitHub stats
 
