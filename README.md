@@ -10,7 +10,7 @@ I work with **Java** and **Angular** professionally, and use **.NET** for person
 - **Mathematician** with a strong analytical foundation
 - **Ex-teacher** with experience explaining complex concepts clearly
 - Working with **Java** and **Angular** in professional projects
-- Building with **.NET**, **Python**, **R**, **Kotlin** **TS** and **React** in personal and learning projects
+- Building with **.NET**, **Python**, **R**, **Kotlin**, **TS** and **React** in personal and learning projects
 - Interested in the intersection of **business analysis**, **mathematics**, **technology**, and **problem solving**
 
 ## Tech & domain
