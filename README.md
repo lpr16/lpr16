@@ -2,7 +2,7 @@
 
 Business Analyst in finance with a strong mathematical background and teaching experience.
 
-I work with **Java** and **Angular** professionally, and use **.NET** for personal projects. My background as a mathematician and teacher informs how I approach problems—breaking down complexity, finding clear solutions, and explaining them well.
+I work with **Java** and **Angular** professionally, and use **.NET** for personal projects. My background as a mathematician and teacher informs how I approach problems—breaking down complexity, communicating solutions clearly, and finding elegant approaches to real-world challenges.
 
 ## About me
 
@@ -10,7 +10,7 @@ I work with **Java** and **Angular** professionally, and use **.NET** for person
 - **Mathematician** with a strong analytical foundation
 - **Ex-teacher** with experience explaining complex concepts clearly
 - Working with **Java** and **Angular** in professional projects
-- Building with **.NET**, **Python**, **R**, **Kotlin**, **TS** and **React** in personal and learning projects
+- Building with **.NET**, **Python**, **R**, **Kotlin**, **TypeScript**, and **React** in personal and learning projects
 - Interested in the intersection of **business analysis**, **mathematics**, **technology**, and **problem solving**
 
 ## Tech & domain
@@ -26,7 +26,10 @@ I work with **Java** and **Angular** professionally, and use **.NET** for person
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Featured Project
 
